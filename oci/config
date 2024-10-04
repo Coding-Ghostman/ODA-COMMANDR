@@ -1,0 +1,7 @@
+[DEFAULT]
+key_file=~\.oci\atman.mishra@conneqtiongroup.com_2024-09-22T04_51_48.567Z.pem
+region=us-chicago-1
+bucket=Insurance-GenAI
+user=ocid1.user.oc1..aaaaaaaagdiyo2dviblldo6dmjrkfkkbfqfz5lmv2zete6avkvg4zk4uc2bq
+fingerprint=10:b4:81:1c:cd:1e:e6:e3:76:24:ee:8c:e1:2b:73:1a
+tenancy=ocid1.tenancy.oc1..aaaaaaaagivcln23zropous7vkz7scdf7tjcfuifqudl5j74azfwza3aq2vq
