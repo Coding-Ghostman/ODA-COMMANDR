@@ -14,10 +14,10 @@ const client = new genai.GenerativeAiInferenceClient({
 	authenticationDetailsProvider: authenticationProvider,
 });
 
-// const compartmentId =
-// 	'ocid1.tenancy.oc1..aaaaaaaahqvb2kliqi35z57qalhpr4dyqbjprclszdcoar2wgc7q6nl36aba';
 const compartmentId =
-	'ocid1.compartment.oc1..aaaaaaaacdv3ig7yho6ebvdm6p5cdxq74pgnugeankt25mebpxoyhar2n4pa';
+	'ocid1.tenancy.oc1..aaaaaaaahqvb2kliqi35z57qalhpr4dyqbjprclszdcoar2wgc7q6nl36aba';
+// const compartmentId =
+// 	'ocid1.compartment.oc1..aaaaaaaacdv3ig7yho6ebvdm6p5cdxq74pgnugeankt25mebpxoyhar2n4pa';
 
 async function generateAIResponse(
 	userMessage,
