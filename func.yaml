@@ -1,5 +1,5 @@
 schema_version: 20180708
-name: odacoheregenai
+name: dmcc_oda_genai_func
 version: 0.0.41
 runtime: node14
 build_image: fnproject/node:14-dev
